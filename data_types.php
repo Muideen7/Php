@@ -1,3 +1,5 @@
+<?php
+
 /*integer*/
 
 echo "integer values <br>";
@@ -29,3 +31,5 @@ var_dump($string1);
 
 
 $bool = true;
+
+?>
