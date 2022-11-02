@@ -3,15 +3,16 @@
 $num1 = 18;
 $num2 = 7;
 
-echo $num1 + $num2;
+echo "sum:"$num1 + $num2;
 echo "<br>";
-echo $num1 - $num2;
+echo "difference:" $num1 - $num2;
 echo "<br>";
-echo $num1 * $num2;
+echo "products:" $num1 * $num2;
 echo "<br>";
-echo $num1 / $num2;
+echo "quotient:" $num1 / $num2;
 echo "<br>";
-echo $num1 % $num2;
+echo "modulus:" $num1 % $num2;
+echo "<br>" 
 
 
 
